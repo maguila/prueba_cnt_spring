@@ -14,4 +14,4 @@ http://localhost:9090/swagger-ui.html
 http://localhost:9090/h2-console
 
 ## Conexion a H2
-!(https://raw.githubusercontent.com/maguila/prueba_cnt_spring/master/img01.png)
+![imagen](https://raw.githubusercontent.com/maguila/prueba_cnt_spring/master/img01.png)
